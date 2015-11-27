@@ -1,6 +1,6 @@
 {
   "name": "posthaste",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "bin": "cmd.js",
@@ -9,12 +9,8 @@
   },
   "author": "David Mark Clements",
   "license": "MIT",
-  "devDependencies": {
-    "babel-preset-stage-0": "^6.1.18"
-  },
   "dependencies": {
     "falafel": "^1.2.0",
-    "superheroes": "^1.0.0",
     "uid": "0.0.2"
   }
 }
